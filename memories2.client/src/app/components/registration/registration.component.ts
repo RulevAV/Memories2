@@ -43,7 +43,7 @@ export class RegistrationComponent {
 
     // this.authenticationService.test().subscribe(res=> console.log(res));
 
-    this.http.get<any>('/weatherforecast').subscribe(
+    this.http.get<any>('/weatherforecast/Get').subscribe(
       (result) => {
         console.log(result);
       },

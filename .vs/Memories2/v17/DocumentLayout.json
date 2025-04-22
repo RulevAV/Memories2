@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Andrey\\Desktop\\Memories2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7070CB6-A84A-795F-44B8-D6AF90E633A2}|memories2.client\\memories2.client.esproj|c:\\users\\andrey\\desktop\\memories2\\memories2.client\\src\\app\\components\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D7070CB6-A84A-795F-44B8-D6AF90E633A2}|memories2.client\\memories2.client.esproj|solutionrelative:memories2.client\\src\\app\\components\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\entities\\tokenutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\entities\\tokenutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\entities\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\entities\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\entities\\jwtissueroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\entities\\jwtissueroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|c:\\users\\andrey\\desktop\\memories2\\memories2.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D699B8-D2CA-4DDC-8C45-61FDA99BBF4A}|Memories2.Server\\Memories2.Server.csproj|solutionrelative:memories2.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +79,123 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registration.component.ts",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\memories2.client\\src\\app\\components\\registration\\registration.component.ts",
+              "RelativeDocumentMoniker": "memories2.client\\src\\app\\components\\registration\\registration.component.ts",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\memories2.client\\src\\app\\components\\registration\\registration.component.ts",
+              "RelativeToolTip": "memories2.client\\src\\app\\components\\registration\\registration.component.ts",
+              "ViewState": "AgIAABwAAABAMjMzM7MiwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-22T14:50:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Memories2.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAgzczMzIwrwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:47:19.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Memories2.Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:47:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Memories2.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\appsettings.Development.json",
+              "RelativeToolTip": "Memories2.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T14:45:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Entities\\TokenUtils.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\Entities\\TokenUtils.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Entities\\TokenUtils.cs",
+              "RelativeToolTip": "Memories2.Server\\Entities\\TokenUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:41:41.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Entities\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\Entities\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Entities\\TokenResponse.cs",
+              "RelativeToolTip": "Memories2.Server\\Entities\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:41:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "Memories2.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:41:00.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Program.cs",
+              "RelativeToolTip": "Memories2.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:40:56.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtIssuerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Entities\\JwtIssuerOptions.cs",
+              "RelativeDocumentMoniker": "Memories2.Server\\Entities\\JwtIssuerOptions.cs",
+              "ToolTip": "C:\\Users\\Andrey\\Desktop\\Memories2\\Memories2.Server\\Entities\\JwtIssuerOptions.cs",
+              "RelativeToolTip": "Memories2.Server\\Entities\\JwtIssuerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:40:40.835Z",
+              "EditorCaption": ""
             }
           ]
         }
