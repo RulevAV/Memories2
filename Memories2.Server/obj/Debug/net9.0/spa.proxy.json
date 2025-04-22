@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:52051",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Andrey\\source\\repos\\Memories2\\Memories2.Server\\..\\memories2.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

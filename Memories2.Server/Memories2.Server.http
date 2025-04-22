@@ -1,0 +1,6 @@
+@Memories2.Server_HostAddress = http://localhost:5252
+
+GET {{Memories2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
