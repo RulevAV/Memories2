@@ -7,7 +7,7 @@ import {
 } from '@angular/material/dialog';
 
 @Component({
-  selector: 'app-navbar',
+  selector: 'navbar',
   standalone: false,
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.css'

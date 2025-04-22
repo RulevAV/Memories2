@@ -13,16 +13,9 @@ export class AuthenticationService {
 
   register(user: User){
     console.log(user)
-    return this.http.post("https://localhost:7264/postuser", user);
+    return this.http.post("/authentication/Get", user);
   }
   test(){
-    this.http.get<any>('/weatherforecast').subscribe(
-      (result) => {
-      },
-      (error) => {
-        console.error(error);
-      }
-    );
-   // return this.http.get("https://localhost:52303/WeatherForecast/Get");
+    return this.http.get<any>('/weatherforecast/Get');
   }
 }

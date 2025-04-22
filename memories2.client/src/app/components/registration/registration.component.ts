@@ -33,23 +33,22 @@ export class RegistrationComponent {
   }
 
   save(){
-    // let asd = this.profileForm.value;
-    // console.log(asd);
-    // this.authenticationService.register({
-    //   login: this.profileForm.get('login')?.value as string,
-    //   password: this.profileForm.get('password')?.value as string,
-    //   mail: this.profileForm.get('mail')?.value as string
-    // }).subscribe(res=> console.log(res));
+    this.authenticationService.register({
+      login: this.profileForm.get('login')?.value as string,
+      password: this.profileForm.get('password')?.value as string,
+      mail: this.profileForm.get('mail')?.value as string
+    }).subscribe(res=> console.log(res));
 
-    // this.authenticationService.test().subscribe(res=> console.log(res));
 
-    this.http.get<any>('/weatherforecast/Get').subscribe(
-      (result) => {
-        console.log(result);
-      },
-      (error) => {
-        console.error(error);
-      }
-    );
+    this.authenticationService.test().subscribe(res=> console.log(res));
+
+    // this.http.get<any>('/weatherforecast/Get').subscribe(
+    //   (result) => {
+    //     console.log(result);
+    //   },
+    //   (error) => {
+    //     console.error(error);
+    //   }
+    // );
   }
 }
