@@ -1,0 +1,15 @@
+<div class="offcanvas-header">
+  <a class="d-flex nav-link " href="#home" (click)="activeOffcanvas.close()" routerLink="/">
+    <img src="logo.svg" height="40px">
+    <h5 class="offcanvas-title m-2">Memory</h5>
+  </a>
+  <button
+    type="button"
+    class="btn-close text-reset"
+    aria-label="Close"
+    (click)="activeOffcanvas.dismiss('Cross click')"
+  ></button>
+</div>
+<div class="offcanvas-body pt-0">
+    <app-link (onClick)="activeOffcanvas.close()" class="navbar-nav justify-content-end flex-grow-1 pe-3"/>
+</div>

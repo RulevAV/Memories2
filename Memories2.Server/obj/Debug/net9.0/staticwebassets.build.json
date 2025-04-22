@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "+fPbn7IbVMigD/E8u9R1MbGdO3twFhj9jWYCXgipwQ8=",
+  "Source": "Memories2.Server",
+  "BasePath": "_content/Memories2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Andrey\\Desktop\\Memories2\\memories2.client\\memories2.client.esproj",
+      "Version": 2,
+      "Source": "memories2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
